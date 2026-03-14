@@ -1,0 +1,19 @@
+[project]
+name = "symbolic-dynamics-engine"
+version = "0.1.0"
+description = "Computational symbolic dynamics research engine"
+authors = [{name="Lydia"}]
+dependencies = [
+    "numpy",
+    "networkx",
+    "matplotlib",
+    "plotly",
+    "scipy"
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["symbolic_dynamics"]
