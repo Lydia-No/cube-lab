@@ -1,10 +1,10 @@
 .PHONY: init update test
 
 init:
-	@echo "Monorepo: no submodules to init."
+	@echo "Monorepo: no submodules."
 
 update:
 	git pull
 
 test:
-	python -m pytest -q
+	python3 -m pytest -q
