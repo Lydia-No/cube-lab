@@ -1,11 +1,10 @@
 .PHONY: init update test
 
 init:
-	git submodule update --init --recursive
+	@echo "Monorepo: no submodules to init."
 
 update:
 	git pull
-	git submodule update --init --recursive
 
 test:
 	python -m pytest -q

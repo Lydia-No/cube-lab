@@ -14,7 +14,7 @@ pip install -e symbolic-core
 pip install -e symbolic-engine
 pip install -e symbolic-dynamics-lab
 pip install -e symbolic-cube-explorer
-pip install -e hypercube-observer
+pip install -e cube-lab/hypercube-observer
 
 echo "Installing dev tools..."
 pip install pytest black ipython
