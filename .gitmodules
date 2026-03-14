@@ -1,0 +1,15 @@
+[submodule "symbolic-core"]
+	path = symbolic-core
+	url = ./symbolic-core
+[submodule "symbolic-dynamics-lab"]
+	path = symbolic-dynamics-lab
+	url = ./symbolic-dynamics-lab
+[submodule "symbolic-cube-explorer"]
+	path = symbolic-cube-explorer
+	url = ./symbolic-cube-explorer
+[submodule "cube-lab/hypercube-observer"]
+	path = cube-lab/hypercube-observer
+	url = ./cube-lab/hypercube-observer
+[submodule "symbolic-engine/symbolic-dynamics-engine"]
+	path = symbolic-engine/symbolic-dynamics-engine
+	url = ./symbolic-engine/symbolic-dynamics-engine
