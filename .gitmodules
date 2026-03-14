@@ -1,15 +1,15 @@
 [submodule "symbolic-core"]
 	path = symbolic-core
-	url = git@github.com:Lydia-No/symbolic-core.git
+	url = https://github.com/Lydia-No/symbolic-core.git.git
 [submodule "symbolic-dynamics-lab"]
 	path = symbolic-dynamics-lab
-	url = git@github.com:Lydia-No/symbolic-dynamics-lab.git
+	url = https://github.com/Lydia-No/symbolic-dynamics-lab.git.git
 [submodule "symbolic-cube-explorer"]
 	path = symbolic-cube-explorer
-	url = git@github.com:Lydia-No/symbolic-cube-explorer.git
+	url = https://github.com/Lydia-No/symbolic-cube-explorer.git.git
 [submodule "cube-lab/hypercube-observer"]
 	path = cube-lab/hypercube-observer
-	url = git@github.com:Lydia-No/hypercube-observer.git
+	url = https://github.com/Lydia-No/hypercube-observer.git.git
 [submodule "symbolic-engine/symbolic-dynamics-engine"]
 	path = symbolic-engine/symbolic-dynamics-engine
-	url = git@github.com:Lydia-No/symbolic-dynamics-engine.git
+	url = https://github.com/Lydia-No/symbolic-dynamics-engine.git.git
