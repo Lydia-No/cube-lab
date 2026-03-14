@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+*.pyc
+
+# generated reports
+experiment_report.py
+experiment_report.txt
+
+# generated reports
+experiment_report.py
+experiment_report.txt
+
+# --- generated / local artifacts ---
+*.html
+*.png
+go
+argparse
+math
+
+# --- generated outputs (keep repo clean) ---
+*_actions.json
+best_actions.json
+*.html
+*.png
+go
+argparse
+math
+__pycache__/
+*.pyc
