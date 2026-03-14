@@ -1,0 +1,11 @@
+[project]
+name = "symbolic-core"
+version = "0.1.0"
+description = "Core symbolic dynamics engine"
+authors = [{name="Lydia"}]
+
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
