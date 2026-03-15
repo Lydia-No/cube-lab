@@ -1,6 +1,3 @@
-[submodule "symbolic-core"]
-	path = symbolic-core
-	url = https://github.com/Lydia-No/symbolic-core.git.git
 [submodule "symbolic-dynamics-lab"]
 	path = symbolic-dynamics-lab
 	url = https://github.com/Lydia-No/symbolic-dynamics-lab.git.git
